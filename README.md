@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **DevOps, DevSecOps, Cloud Computing (AWS, Microsoft Azure, Digital Ocean), Kubernetes, Python, Linux System Administration, Git (Gitlab, Github, BitBucket), Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Servers (Nginx, Apache)**
 
-- 📫 How to reach me **dbkube007@gmail.com**
+- 📫 How to reach me **dipakbodare@gmail.com**
 
 - ⚡ Fun fact **I am Extrovert**
 
