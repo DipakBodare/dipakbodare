@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
-<h1 align="center">Hi 👋, I'm Dipak Bodare from India🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Dipak Bodare from India </h1>
 
 <h3 align="center">Senior DevOps Engineer focused on automation with cloud and DevOps technologies.</h3>
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
