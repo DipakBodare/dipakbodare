@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="dipakbodare" /> </p>
 
-- 🔭 I’m currently working on [Creating Course for AWS and AWS Devops](https://dbkube.graphy.com/)
+- 🔭 I’m currently working on [AWS and Devops](https://dbkube.graphy.com/)
 
 - 🌱 I’m currently learning **Kubernetes**
 
